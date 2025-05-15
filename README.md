@@ -72,5 +72,5 @@ export default {
 </script>
 ```
 
-![tests](restaurant/public\tests.png)
 
+![tests](restaurant/public\tests.png)
